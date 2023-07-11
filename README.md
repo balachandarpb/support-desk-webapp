@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+## Step to Run this project
+1. you have to run `npm install` on main directory
+2. then you have to run again `npm install` script on frontend directory
+3. next we have to run `npm run dev` from main directory
+
+
 ## Available Scripts
 
 In the project directory, you can run:
